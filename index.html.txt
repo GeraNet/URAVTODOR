@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>GeraNet – Webdesign</title>
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+
+<nav>
+  <div class="logo">GeraNet</div>
+  <div class="nav-right">
+    <a href="#about">Über uns</a>
+    <a href="#price">Preise</a>
+    <a href="#contact">Kontakt</a>
+  </div>
+</nav>
+
+<!-- HERO -->
+<section id="hero">
+  <div class="hero-content">
+    <h1>Webseiten für dein Business</h1>
+    <p>Wir erstellen moderne, mobil-optimierte Webseiten für kleine Unternehmen, Selbstständige und kreative Projekte.</p>
+    <p>Unsere Designs sind individuell, klar strukturiert und passen perfekt zu deiner Marke.</p>
+    <a href="#contact" class="btn">Schreib uns auf Telegram</a>
+  </div>
+</section>
+
+<!-- ABOUT -->
+<section id="about" class="fade slide-left">
+  <h1>Über GeraNet</h1>
+  <p>GeraNet ist ein junges Webprojekt aus Gera. Unser Ziel: kleine Unternehmen professionell im Web sichtbar zu machen.</p>
+  <p>Wir sind ein <strong>Jugendlicheprojekt</strong> und kein Gewerbe. Die Bezahlung ist möglich <strong>bar und mit Telegramm Stars ⭐</strong>.</p>
+  <p>Wir arbeiten mit individuellem Code, modernen Templates oder Google Sites – je nach Wunsch des Kunden.</p>
+  <p>Jeder kunde hat persönliche support.</p>
+</section>
+
+<!-- PRICES -->
+<section id="price" class="fade slide-right">
+  <h1>Preise & Pakete</h1>
+  <div class="cards">
+
+    <!-- Пример карточки услуги -->
+    <div class="card fade slide-up scale-on-hover">
+      <h2>Website Visitenkarte</h2>
+      <div class="price">ab 80€ – 90€</div>
+      <p>1 Seite, modern, mobil optimiert. Perfekt für die schnelle Online-Präsenz.</p>
+      <p>Inklusive Kontaktformular und Basis-Funktionen.</p>
+      <button class="btn order-btn">Bestellen</button>
+      <div class="app-select hidden">
+        <a href="https://t.me/geranet_bot" target="_blank"><i class="fab fa-telegram"></i> Telegram Bot</a>
+        <a href="https://t.me/Duf7484" target="_blank"><i class="fab fa-telegram-plane"></i> Telegram Direkt</a>
+        <a href="https://www.instagram.com/geranet_web" target="_blank"><i class="fab fa-instagram"></i> Instagram</a>
+      </div>
+    </div>
+
+    <!-- Business Website -->
+    <div class="card fade slide-up scale-on-hover">
+      <h2>Business Website</h2>
+      <div class="price">ab 100€ – 139€+</div>
+      <p>3 Seiten, individuelles Layout und responsives Design.</p>
+      <p>Inklusive Galerie, Kontaktformular und Social-Media-Integration.</p>
+      <button class="btn order-btn">Bestellen</button>
+      <div class="app-select hidden">
+        <a href="https://t.me/geranet_bot" target="_blank"><i class="fab fa-telegram"></i> Telegram Bot</a>
+        <a href="https://t.me/Duf7484" target="_blank"><i class="fab fa-telegram-plane"></i> Telegram Direkt</a>
+        <a href="https://www.instagram.com/geranet_web" target="_blank"><i class="fab fa-instagram"></i> Instagram</a>
+      </div>
+    </div>
+
+    <!-- Große Website -->
+    <div class="card fade slide-up scale-on-hover">
+      <h2>Große Website</h2>
+      <div class="price">ab 140€ – 200€</div>
+      <p>Viele Unterseiten, Premium Design und individuelle Animationen.</p>
+      <p>Inklusive Blog und regelmäßiger Wartung.</p>
+      <button class="btn order-btn">Bestellen</button>
+      <div class="app-select hidden">
+        <a href="https://t.me/geranet_bot" target="_blank"><i class="fab fa-telegram"></i> Telegram Bot</a>
+        <a href="https://t.me/Duf7484" target="_blank"><i class="fab fa-telegram-plane"></i> Telegram Direkt</a>
+        <a href="https://www.instagram.com/geranet_web" target="_blank"><i class="fab fa-instagram"></i> Instagram</a>
+      </div>
+    </div>
+
+    <!-- Logo Design -->
+    <div class="card fade slide-up scale-on-hover">
+      <h2>Logo Design</h2>
+      <div class="price">ab 30€ – 50€</div>
+      <p>Modernes, minimalistisches Logo für dein Business.</p>
+      <p>Passend zu Webseite, Visitenkarte und Social Media Profilen.</p>
+      <button class="btn order-btn">Bestellen</button>
+      <div class="app-select hidden">
+        <a href="https://t.me/geranet_bot" target="_blank"><i class="fab fa-telegram"></i> Telegram Bot</a>
+        <a href="https://t.me/Duf7484" target="_blank"><i class="fab fa-telegram-plane"></i> Telegram Direkt</a>
+        <a href="https://www.instagram.com/geranet_web" target="_blank"><i class="fab fa-instagram"></i> Instagram</a>
+      </div>
+    </div>
+
+    <!-- Werbung -->
+    <div class="card fade slide-up scale-on-hover">
+      <h2>Werbung auf Website & Social Media</h2>
+      <div class="price">ab 65€ – 100€</div>
+      <p>Promote dein Unternehmen direkt auf unserer Webseite und Social Media Kanälen.</p>
+      <p>Individuell abgestimmte Werbepakete und Reichweite.</p>
+      <button class="btn order-btn">Bestellen</button>
+      <div class="app-select hidden">
+        <a href="https://t.me/geranet_bot" target="_blank"><i class="fab fa-telegram"></i> Telegram Bot</a>
+        <a href="https://t.me/Duf7484" target="_blank"><i class="fab fa-telegram-plane"></i> Telegram Direkt</a>
+        <a href="https://www.instagram.com/geranet_web" target="_blank"><i class="fab fa-instagram"></i> Instagram</a>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- Предупреждение о боте -->
+  <div class="bot-warning">
+    <p>⚠️ Unser Telegram-Bot arbeitet <strong>nicht 24/7</strong>. Wenn es nicht funktioniert, bitte später erneut versuchen.</p>
+  </div>
+
+  <!-- Ссылки на документы -->
+  <div class="documents">
+    <p><strong>Wichtige Links:</strong></p>
+    <ul>
+      <li><a href="https://docs.google.com/document/d/1-GLz_-DTqfBB4l8-cTMrRMik3scIN9OyW-dMY59wgjA/edit" target="_blank">Datenschutz Erklärung</a></li>
+      <li><a href="https://docs.google.com/document/d/1-PpB_S4wFFowxGWyDT-yMOQwoVxI8RiJ1F5qZkdVGZ8/edit" target="_blank">Projektregeln</a></li>
+      <li><a href="https://docs.google.com/document/d/109P3rnm7qVgGXjFwghw-ktSiOEM62Xnm2VQpmZetlK0/edit" target="_blank">Impressum</a></li>
+    </ul>
+  </div>
+</section>
+
+<!-- CONTACT -->
+<section id="contact" class="fade slide-left">
+  <h1>Kontaktiere uns</h1>
+  <p>Schreibe uns direkt über Telegram oder Instagram. Wir melden uns schnellstmöglich.</p>
+</section>
+
+<script src="script.js"></script>
+</body>
+</html>
